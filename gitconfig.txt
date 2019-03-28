@@ -13,4 +13,5 @@
 	tool = diffmerge
 [mergetool]
 	path = C:\\Program Files\\SourceGear\\Common\\DiffMerge\\sgdm.exe
+	lai sua
 -- cau hinh tool merge source/////
