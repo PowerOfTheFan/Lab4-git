@@ -1,0 +1,15 @@
+[user]
+	name = username
+	email = password
+	
+-- cau hinh tool merge source
+[diff]
+	tool = diffmerge
+[difftool diffmerge]
+	path = CProgram FilesSourceGearCommonDiffMergesgdm.exe
+	
+[merge]
+	tool = diffmerge
+[mergetool]
+	path = CProgram FilesSourceGearCommonDiffMergesgdm.exe
+-- cau hinh tool merge source/////
