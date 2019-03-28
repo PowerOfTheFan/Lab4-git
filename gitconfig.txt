@@ -4,12 +4,13 @@
 	
 -- cau hinh tool merge source
 [diff]
-	tool = diffmerge
+	tool = diffmerge > ten tool su dung
 [difftool diffmerge]
-	path = CProgram FilesSourceGearCommonDiffMergesgdm.exe
+	-- noi cai dat chua file .exe cua tool merge
+	path = C:\\Program Files\\SourceGear\\Common\\DiffMerge\\sgdm.exe
 	
 [merge]
 	tool = diffmerge
 [mergetool]
-	path = CProgram FilesSourceGearCommonDiffMergesgdm.exe
+	path = C:\\Program Files\\SourceGear\\Common\\DiffMerge\\sgdm.exe
 -- cau hinh tool merge source/////
