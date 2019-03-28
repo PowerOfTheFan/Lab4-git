@@ -12,7 +12,6 @@
 [merge]
 	tool = diffmerge
 [mergetool]
-	path = CProgram FilesSourceGearCommonDiffMergesgdm.exe
 	path = C:\\Program Files\\SourceGear\\Common\\DiffMerge\\sgdm.exe
 	 pull test 1
 -- cau hinh tool merge source/////
