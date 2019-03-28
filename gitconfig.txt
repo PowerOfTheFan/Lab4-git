@@ -13,3 +13,4 @@
 [mergetool]
 	path = CProgram FilesSourceGearCommonDiffMergesgdm.exe
 -- cau hinh tool merge source/////
+ pull test 1
